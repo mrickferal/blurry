@@ -1,1 +1,15 @@
-# Project's Name
+# Blurry
+
+The **Blurry** project features an animation with a blur effect when certain elements are hovered over.
+
+## Setup
+
+- HTML 5.1
+- CSS Snapshot 2023
+- JavaScript ECMAScript 2023
+
+To use the project follows these steps:
+
+- Git clone the `dev` branch of the repository
+- Go to the `template` folder
+- Open the `index.html` file
